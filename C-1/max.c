@@ -3,7 +3,7 @@
 int main(void) {
     int nb1 = 0, nb2 = 0, max = 0;
 
-    printf("Entrez les deux nombres séparés par un espace");
+    printf("Entrez les deux nombres séparés par un espace:\n");
 
     scanf("%d %d", &nb1, &nb2);
 
